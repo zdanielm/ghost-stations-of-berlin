@@ -1,6 +1,8 @@
 # Ghost stations in Berlin
 ## An interactive map visualization of the ghost stations of Berlin during the Cold War - Mini Project
 
+[Check The Labeled Version Here](https://zdanielm-berlin-ghost.netlify.app/)
+
 Inspiration: https://en.wikipedia.org/wiki/Ghost_station#Ghost_stations_in_Berlin
 
 TL;DR: As the Berlin wall wasn't adapted to the metro lines' shape, three lines went through East-Germany (East-Berlin), but without stopping, 
