@@ -1,5 +1,5 @@
 # Ghost stations in Berlin
-## An interactive map visualization of the ghost stations of Berlin during the Cold War
+## An interactive map visualization of the ghost stations of Berlin during the Cold War - Mini Project
 
 Inspiration: https://en.wikipedia.org/wiki/Ghost_station#Ghost_stations_in_Berlin
 
